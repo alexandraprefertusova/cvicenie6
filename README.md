@@ -46,6 +46,7 @@ Funkcia has_intersection() vracia slovník napríklad:
 Inštalácia knižnice
 
 Na vykreslenie grafu je potrebná knižnica matplotlib:
+(nahlad grafu : ![Figure_1.png](../../Figure_1.png)
 
 uv add matplotlib
 Spustenie programu
